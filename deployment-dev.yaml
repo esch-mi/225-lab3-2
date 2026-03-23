@@ -27,7 +27,7 @@ spec:
   - host: 
     http:
       paths:
-      - path: /lab3-2
+      - path: /
         pathType: ImplementationSpecific
         backend: 
           service:
